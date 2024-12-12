@@ -1,0 +1,20 @@
+body{background-color: antiquewhite;}
+.letra{font-size: xx-large;text-decoration-style:wavy;}
+.sub2{text-decoration: underline;text-decoration-style:double;text-align: center;font-size: x-large;}
+p{font-size: x-large;text-decoration-style:wavy;}
+hr{height:5px;border-width:2px;background-color:darkgoldenrod;border-color: darkgoldenrod;}
+table { border:5px solid #2c7a76;border-collapse: collapse;width:50%;background-color:rgb(252, 253, 255);}
+th  { border:1px solid rgb(0, 0, 0);text-align: center; }
+td  { border:1px solid rgb(0, 0, 0);text-align: center; }
+.icono{display:scroll;position: fixed;bottom: 0px;right: 0px;}
+.icono2{display:scroll;position: fixed;bottom: 0px;right: 70px;}
+.contenedor{justify-content:center;display:flex ;}
+.sub{text-decoration: underline;text-decoration-style:double;text-align: center;font-size: xx-large;}
+.indice{text-align: center;font-size: x-large;text-decoration-style:wavy;}
+.img{width: 800px}
+.icono3{display:scroll;position: fixed;bottom: 0px;right: 160px;}
+.iconom{display:scroll;position: fixed;bottom: 0px;left: 0px;}
+.titulo{text-decoration: underline;text-align: center;text-decoration-style: wavy ;}
+ul{font-size: x-large;text-decoration-style:wavy;}
+ol{font-size: x-large;text-decoration-style:wavy;}
+video{width: 40%}
